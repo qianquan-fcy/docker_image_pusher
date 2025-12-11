@@ -1,1 +1,1 @@
-registry:2
+metabase/metabase:latest
