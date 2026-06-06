@@ -1,1 +1,1 @@
-metabase/metabase:latest
+openjdk:17-slim:latest
